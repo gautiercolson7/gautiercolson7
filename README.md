@@ -1,5 +1,10 @@
-### Hi there 👋
-
+# Hi there 👋
+### Let me introduce myself
+🙋‍♂️ I'm a 22 years old French student, studying Computer Science. Since late 2020, I've joined AirLiquide company as an apprentice Data Specialist. In parallel with this activity, I'm working as a part-time freelance Business Intelligence Analyst. This help me not to focus only on tech stacks but also business questions !  
+🏫 I'm currently seeking for a new 15 month apprentice job for my new journey : the Mastère Specialisé IT Management, at ESSEC and Télécom Paris schools.
+### But, what am I doing ?
+🌐 When I'm writing these lines, I'm beginning an online course to improve my front-end dev skills. This include html, css, JS, React. I hope to have good skills at the beginning of summer 2022, knowing that I'm starting it in April 2022. Of course, this is on my free-time !  
+⛓️ The purpose of this front-end learning course is to code Decentralized Applications on the blockchain. So the next step of this journey will be to learn 
 <!--
 **gautiercolson7/gautiercolson7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
